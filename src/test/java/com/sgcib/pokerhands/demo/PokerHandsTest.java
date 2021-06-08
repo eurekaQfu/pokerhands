@@ -1,11 +1,11 @@
 package com.sgcib.pokerhands.demo;
 
+import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
 import com.sgcib.pokerhands.demo.PokerHands;
 
-import junit.framework.Assert;
 /**
  * Unit test for poker hands
  * clubs, diamonds, hearts, or spades denoted C, D, H, and S
