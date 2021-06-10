@@ -1,4 +1,5 @@
 # pokerhands
+[![Build Status](https://travis-ci.com/eurekaQfu/pokerhands.svg?branch=master)](https://travis-ci.com/eurekaQfu/pokerhands)
 
 Poker Hands
 
