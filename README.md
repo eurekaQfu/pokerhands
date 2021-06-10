@@ -1,5 +1,8 @@
 # pokerhands
+
 [![Build Status](https://travis-ci.com/eurekaQfu/pokerhands.svg?branch=master)](https://travis-ci.com/eurekaQfu/pokerhands)
+
+[![Coverage Status](https://coveralls.io/repos/github/eurekaQfu/pokerhands/badge.svg)](https://coveralls.io/github/eurekaQfu/pokerhands)
 
 Poker Hands
 
